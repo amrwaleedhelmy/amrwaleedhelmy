@@ -2,7 +2,7 @@
 
 My name is Amr Osman, and I am an aspiring developer majoring in Computer Engineering at AUBH.
 
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amrwaleedh@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-osman-483664258/)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amrwaleedh@gmail.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-osman-483664258/)
 
 # 💻 Skills:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -39,9 +39,9 @@ My name is Amr Osman, and I am an aspiring developer majoring in Computer Engine
 ![x86 Assembly](https://img.shields.io/badge/x86%20Assembly-%231F7A89.svg?style=for-the-badge)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=emansarahafi&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=emansarahafi&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=emansarahafi&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=amrwaleedhelmy&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=amrwaleedhelmy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amrwaleedhelmy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 *Please take a look at my repositories here.*
