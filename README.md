@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Amr Osman, and I am an aspiring developer majoring in Computer Engineering at AUBH.
+My name is Amr Osman, and I am an aspiring developer majoring in Computer Engineering at AUBH. Feel free to check out my profile & projects!
 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amrwaleedh@gmail.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-osman-483664258/)
 
@@ -42,6 +42,3 @@ My name is Amr Osman, and I am an aspiring developer majoring in Computer Engine
 ![](https://github-readme-stats.vercel.app/api?username=amrwaleedhelmy&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amrwaleedhelmy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amrwaleedhelmy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-*Please take a look at my repositories here.*
