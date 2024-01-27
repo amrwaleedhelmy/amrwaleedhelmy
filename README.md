@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Amr Osman, and I am an aspiring developer majoring in Computer Engineering at AUBH. Feel free to check out my profile & projects!
+My name is Amr Osman, and I am an aspiring developer with a major in Computer Engineering from AUBH. Feel free to check out my profile & projects!
 
 # 🌐 Contact me via:
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amrwaleedh@gmail.com)
